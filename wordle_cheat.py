@@ -1,5 +1,5 @@
 # Wordle_cheat v1
-# by madmattp
+# Made by madmattp (https://github.com/madmattp)
 
 from os import path
 from datetime import datetime
